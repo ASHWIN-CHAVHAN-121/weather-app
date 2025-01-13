@@ -15,7 +15,7 @@ A responsive **Weather Forecast App** built using HTML, CSS, and JavaScript, lev
 
 ## Demo 🎥
 
-[Live Demo](#) *(https://ashwin-chavhan-121.github.io/weather-app/)*
+[Live Demo](#) *(https://ashwin-chavhan.github.io/weather-app/)*
 
 ---
 
@@ -31,7 +31,7 @@ A responsive **Weather Forecast App** built using HTML, CSS, and JavaScript, lev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ASHWIN-CHAVHAN-121/weather-app.git
+   git clone https://github.com/Ashwin-Chavhan/weather-app.git
    ```
 2. Navigate to the project directory:
    ```bash
